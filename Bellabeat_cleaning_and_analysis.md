@@ -73,7 +73,7 @@ dailyActivity file, dailySteps file, and sleepDay file”
 
 # Step 3: Clean data
 
-# 3a: Check blanks/nulls/truncated data. Address via “complete or delete”.
+3a: Check blanks/nulls/truncated data. Address via “complete or delete”.
 
 ``` r
 lapply(lapply(daily_activity,is.na),table)
@@ -202,7 +202,7 @@ lapply(lapply(sleep_day,is.na),table)
     ## FALSE 
     ##   413
 
-# 3b Check for and remove duplicates
+3b Check for and remove duplicates
 
 ``` r
 nrow(daily_activity)
@@ -263,7 +263,7 @@ n_distinct(sleep_day)
 
     ## [1] 410
 
-# 3c: ensure consistent and clean columns
+3c: ensure consistent and clean columns
 
 ``` r
 daily_activity <- clean_names(daily_activity)
@@ -273,7 +273,7 @@ daily_sleep <- clean_names(sleep_day)
 remove(sleep_day)
 ```
 
-# 3d: ensure consistent typcast
+3d: ensure consistent typcast
 
 ``` r
 str(daily_activity)
@@ -344,7 +344,7 @@ daily_sleep <- daily_sleep %>%
 # and not 24-hour (%H), that the "AM" is the locale/specific AM/PM.
 ```
 
-# 3e: Ensure consistent strings
+3e: Ensure consistent strings
 
 ``` r
 str(daily_activity)
@@ -687,7 +687,7 @@ an anomaly.
 
 # Step 4: Analysis: Observation of trends and relationships
 
-# Observation 1: The more steps users took, the more active they became.
+Observation 1: The more steps users took, the more active they became.
 
 ``` r
 ggplot(daily_activity_sleep) +
@@ -778,7 +778,7 @@ ggplot(daily_activity_sleep) +
 
 ![](Bellabeat_cleaning_and_analysis_files/figure-gfm/observation%206-1.png)<!-- -->
 
-# Observation 7: This is no strong negative relationship between activte minutes and sedentary minutes.
+Observation 7: This is no strong negative relationship between activte minutes and sedentary minutes.
 
 What this means in plain English is that based on this data, we can’t
 definitively say that high sedentary time equates to low active time and
