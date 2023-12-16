@@ -685,7 +685,8 @@ an anomaly.
 
 ### Observation 1: The more steps users took, the more active they became.
 
-![](Bellabeat_cleaning_and_analysis_files/figure-gfm/Observation%201-1.png)<!-- -->
+![steps_v_activity](https://github.com/carlussery/Fitness_device_trends/assets/153660397/141dda2f-4e68-4bb7-9326-c8d4f654f4b7)
+
 
 ### IMPORTANT:
 
@@ -695,27 +696,33 @@ negative correlation between sedentary minutes and steps taken
 minutes). Perhaps the reason is that being sedentary for long periods of
 time is not a trait exclusive to those who don’t walk. For instance,
 career choice may play a role.
+![steps_v_sedentary](https://github.com/carlussery/Fitness_device_trends/assets/153660397/415f573a-5123-468e-a50c-1c993561855d)
 
-![](Bellabeat_cleaning_and_analysis_files/figure-gfm/Observation%201a-1.png)<!-- -->
+
 \### Observation 2: The more sedentary users became, the LESS they
 rended to sleep.
+![sedentary_v_sleep](https://github.com/carlussery/Fitness_device_trends/assets/153660397/cd97df00-1214-4492-95aa-d066ad5a71eb)
 
-![](Bellabeat_cleaning_and_analysis_files/figure-gfm/observation%202-1.png)<!-- -->
+
 \### Observation 3: Users who wore their devices longer (tracking more
 activity) tended to sleep less.
+![uptime_v_sleep](https://github.com/carlussery/Fitness_device_trends/assets/153660397/2a2cbb9f-caf5-417e-a183-ed8079835d96)
 
-![](Bellabeat_cleaning_and_analysis_files/figure-gfm/Observation%203-1.png)<!-- -->
+
 \### Observation 4: Users who wore their devices longer (tracking more
 activity) tended to be more sedentary.
+![uptime_v_sedentary](https://github.com/carlussery/Fitness_device_trends/assets/153660397/ea4d7dc8-6c54-4685-9a47-70f180cfc931)
 
-![](Bellabeat_cleaning_and_analysis_files/figure-gfm/observation%204-1.png)<!-- -->
+
 \### Observation 5: Users who tracked and logged more activity tended to
 sleeep less.
-![](Bellabeat_cleaning_and_analysis_files/figure-gfm/observation%205-1.png)<!-- -->
+![sleep_v_activity](https://github.com/carlussery/Fitness_device_trends/assets/153660397/f32344a2-c60f-4013-b21a-f2f8d42c2ffb)
+
 \### Observation 6: The more active users were, the more calories they
 tended to burn.
+![activity_v_calories](https://github.com/carlussery/Fitness_device_trends/assets/153660397/e9bc4217-e27c-49d9-a64d-cd69ab8db3f9)
 
-![](Bellabeat_cleaning_and_analysis_files/figure-gfm/observation%206-1.png)<!-- -->
+
 
 ### Observation 7: This is no strong negative relationship between activte minutes and sedentary minutes.
 
