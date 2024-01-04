@@ -7,7 +7,7 @@ How do consumers use smart fitness wearables?
 
 ### Analysis Objective:
 
-Identify insights and trends in smart device trends.
+Identify insights and trends in fitness smart device usage.
 
 ### Business Objective:
 
