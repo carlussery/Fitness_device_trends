@@ -745,7 +745,7 @@ Based upon the results of the analysis we recommend the following:
 3.  Those who are already very active should be encouraged to track
     sleep and rest to achieve higher quality recovery.
 4.  Further analysis is required due to the small sample size of the
-    dataset. With this in mind, the recommendatons are merely a starting
+    dataset. With this in mind, the recommendations are merely a starting
     point.
 
 ## Limitations
