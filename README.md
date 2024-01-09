@@ -711,7 +711,7 @@ career choice may play a role.
 ![uptime_v_sedentary](https://github.com/carlussery/Fitness_device_trends/assets/153660397/ea4d7dc8-6c54-4685-9a47-70f180cfc931)
 
 
-### Observation 5: Users who tracked and logged more activity tended to sleeep less.
+### Observation 5: Users who tracked and logged more activity tended to sleep less.
 ![sleep_v_activity](https://github.com/carlussery/Fitness_device_trends/assets/153660397/f32344a2-c60f-4013-b21a-f2f8d42c2ffb)
 
 ### Observation 6: The more active users were, the more calories they tended to burn.
