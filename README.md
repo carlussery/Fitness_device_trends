@@ -699,27 +699,22 @@ career choice may play a role.
 ![steps_v_sedentary](https://github.com/carlussery/Fitness_device_trends/assets/153660397/415f573a-5123-468e-a50c-1c993561855d)
 
 
-### Observation 2: The more sedentary users became, the LESS they
-rended to sleep.
+### Observation 2: The more sedentary users became, the LESS they tended to sleep.
 ![sedentary_v_sleep](https://github.com/carlussery/Fitness_device_trends/assets/153660397/cd97df00-1214-4492-95aa-d066ad5a71eb)
 
 
-### Observation 3: Users who wore their devices longer (tracking more
-activity) tended to sleep less.
+### Observation 3: Users who wore their devices longer (tracking more activity) tended to sleep less.
 ![uptime_v_sleep](https://github.com/carlussery/Fitness_device_trends/assets/153660397/2a2cbb9f-caf5-417e-a183-ed8079835d96)
 
 
-### Observation 4: Users who wore their devices longer (tracking more
-activity) tended to be more sedentary.
+### Observation 4: Users who wore their devices longer (tracking more activity) tended to be more sedentary.
 ![uptime_v_sedentary](https://github.com/carlussery/Fitness_device_trends/assets/153660397/ea4d7dc8-6c54-4685-9a47-70f180cfc931)
 
 
-### Observation 5: Users who tracked and logged more activity tended to
-sleeep less.
+### Observation 5: Users who tracked and logged more activity tended to sleeep less.
 ![sleep_v_activity](https://github.com/carlussery/Fitness_device_trends/assets/153660397/f32344a2-c60f-4013-b21a-f2f8d42c2ffb)
 
-### Observation 6: The more active users were, the more calories they
-tended to burn.
+### Observation 6: The more active users were, the more calories they tended to burn.
 ![activity_v_calories](https://github.com/carlussery/Fitness_device_trends/assets/153660397/e9bc4217-e27c-49d9-a64d-cd69ab8db3f9)
 
 
