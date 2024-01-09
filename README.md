@@ -748,5 +748,5 @@ Based upon the results of the analysis we recommend the following:
 The sample size of the dataset is very small both in terms of the number
 of users (33) and the time span of the sample (31 days). No qualitative
 data was presented in this dataset and thus we do not know for which
-purposes the users are using the device let alone the types of activies
+purposes the users are using the device let alone the types of activities
 that are being undertaken.
