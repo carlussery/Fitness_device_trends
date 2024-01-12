@@ -269,7 +269,7 @@ daily_sleep <- clean_names(sleep_day)
 remove(sleep_day)
 ```
 
-### 3d: ensure consistent typcast
+### 3d: ensure consistent typecast
 
 ``` r
 str(daily_activity)
@@ -537,7 +537,7 @@ measured for 2016-04-12. What’s the significance of this number?
     ## [1] 24
 
 Equals 24 hours. So, that means that if a user’s activity minutes on any
-given day totals 1440, they’ve tracked an entire 24hr period.
+given day totals 1440, they’ve tracked an entire 24-hour period.
 Interesting. 19/33 have done so on the first day. Later on in our
 analysis, we can aggregate these “full-time” users if we choose to.
 
@@ -550,7 +550,7 @@ a portion of all activity minutes are sedentary. Sleeping is a sedentary
 activity, Therefore, sleeping minutes should be considered sedentary
 minutes. The expectation is that a) sedentary minutes should exceed
 sleeping minutes and b) sleeping minutes should never exceed sedentary
-minutes. Let’s test this by first combining the two dataframes, then
+minutes. Let’s test this by first combining the two data frames, then
 getting a statistical summary of it:
 
 ``` r
@@ -719,11 +719,11 @@ career choice may play a role.
 
 
 
-### Observation 7: This is no strong negative relationship between activte minutes and sedentary minutes.
+### Observation 7: This is no strong negative relationship between active minutes and sedentary minutes.
 
 What this means in plain English is that based on this data, we can’t
 definitively say that high sedentary time equates to low active time and
-vice versa. Too many variable come into play such as lifestyle, training
+vice versa. Too many variables come into play such as lifestyle, training
 style, etc.  
 ![](Bellabeat_cleaning_and_analysis_files/figure-gfm/observation%207-1.png)<!-- -->
 
@@ -732,13 +732,13 @@ for this analysis.
 
 ## Recommendations
 
-Based upon the results of the analysis we recommend the following:
+Based on the results of the analysis we recommend the following:
 
-1.  Segment smart device users based upon their goals and motivations.
+1.  Segment smart device users based on their goals and motivations.
 2.  Those looking to become more active should be encouraged to track
     steps.
 3.  Those who are already very active should be encouraged to track
-    sleep and rest to achieve higher quality recovery.
+    sleep and rest to achieve higher-quality recovery.
 4.  Further analysis is required due to the small sample size of the
     dataset. With this in mind, the recommendations are merely a starting
     point.
